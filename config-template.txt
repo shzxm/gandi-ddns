@@ -10,7 +10,7 @@ domain = example.com
 a_name = raspbian
 
 # TTL (seconds)
-ttl = 900
+ttl = 300
 
 # Production API
 api = https://dns.api.gandi.net/api/v5/
